@@ -1,0 +1,6 @@
+ETL Project
+Nate Bach, Christine Robicheaux, Sean Hoffman
+
+Our ETL project entails extracting data from IMDB, Rotten Tomatoes, and Academy Awards datasets, transforming it by cleaning those datasets, and filtering down to data that appears in all of the files.
+
+We will then load the data into a PostgresDB database.
