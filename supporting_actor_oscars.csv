@@ -1,83 +1,88 @@
 ,person,award,movie,year_of_award
-30,Walter Brennan,Best Supporting Actor,Come and Get It,1938
-31,Joseph Schildkraut,Best Supporting Actor,The Life of Emile Zola,1938
-36,Walter Brennan,Best Supporting Actor,Kentucky,1939
-41,Thomas Mitchell,Best Supporting Actor,Stagecoach,1940
-47,Walter Brennan,Best Supporting Actor,The Westerner,1941
-53,Donald Crisp,Best Supporting Actor,How Green Was My Valley,1942
-59,Van Heflin,Best Supporting Actor,Johnny Eager,1943
-61,Van Heflin,Best Supporting Actor,Johnny Eager,1943
-64,Charles Coburn,Best Supporting Actor,The More the Merrier,1944
-69,Barry Fitzgerald,Best Supporting Actor,Going My Way,1945
-74,James Dunn,Best Supporting Actor,A Tree Grows in Brooklyn,1946
-80,Harold Russell,Best Supporting Actor,The Best Years of Our Lives,1947
-85,Edmund Gwenn,Best Supporting Actor,Miracle on 34th Street,1948
-90,Walter Huston,Best Supporting Actor,The Treasure of the Sierra Madre,1949
-96,Dean Jagger,Best Supporting Actor,Twelve O'Clock High,1950
-101,George Sanders,Best Supporting Actor,All About Eve,1951
-106,Karl Malden,Best Supporting Actor,A Streetcar Named Desire,1952
-111,Anthony Quinn,Best Supporting Actor,Viva Zapata!,1953
-117,Frank Sinatra,Best Supporting Actor,From Here to Eternity,1954
-122,Edmond O'Brien,Best Supporting Actor,The Barefoot Contessa,1955
-127,Jack Lemmon,Best Supporting Actor,Mister Roberts,1956
-132,Anthony Quinn,Best Supporting Actor,Lust for Life,1957
-137,Red Buttons,Best Supporting Actor,Sayonara,1958
-143,Burl Ives,Best Supporting Actor,The Big Country,1959
-148,Hugh Griffith,Best Supporting Actor,Ben-Hur,1960
-154,Peter Ustinov,Best Supporting Actor,Spartacus,1961
-160,George Chakiris,Best Supporting Actor,West Side Story,1962
-165,"Ed Begley, Sr.",Best Supporting Actor,Sweet Bird of Youth,1963
-170,Melvyn Douglas,Best Supporting Actor,Hud,1964
-175,Peter Ustinov,Best Supporting Actor,Topkapi,1965
-180,Martin Balsam,Best Supporting Actor,A Thousand Clowns,1966
-185,Walter Matthau,Best Supporting Actor,The Fortune Cookie,1967
-191,George Kennedy,Best Supporting Actor,Cool Hand Luke,1968
-197,Jack Albertson,Best Supporting Actor,The Subject Was Roses,1969
-201,Jack Albertson,Best Supporting Actor,The Subject Was Roses,1969
-204,Gig Young,Best Supporting Actor,"They Shoot Horses, Don't They?",1970
-209,John Mills,Best Supporting Actor,Ryan's Daughter,1971
-214,Ben Johnson,Best Supporting Actor,The Last Picture Show,1972
-220,Joel Grey,Best Supporting Actor,Cabaret,1973
-224,John Houseman,Best Supporting Actor,The Paper Chase,1974
-229,Robert De Niro,Best Supporting Actor,The Godfather Part II,1975
-235,George Burns,Best Supporting Actor,The Sunshine Boys,1976
-240,Jason Robards,Best Supporting Actor,All the President's Men,1977
-244,Jason Robards,Best Supporting Actor,All the President's Men,1977
-247,Jason Robards,Best Supporting Actor,Julia,1978
-252,Christopher Walken,Best Supporting Actor,The Deer Hunter,1979
-259,Melvyn Douglas,Best Supporting Actor,Being There,1980
-264,Timothy Hutton,Best Supporting Actor,Oridnary People,1981
-269,John Gielgud,Best Supporting Actor,Arthur,1982
-274,"Lou Gossett, Jr.",Best Supporting Actor,An Officer and a Gentleman,1983
-278,Jack Nicholson,Best Supporting Actor,Terms of Endearment,1984
-283,Haing S. Ngor,Best Supporting Actor,The Killing Fields,1985
-288,Don Ameche,Best Supporting Actor,Cocoon,1986
-292,Michael Caine,Best Supporting Actor,Hannah and Her Sisters,1987
-297,Sean Connery,Best Supporting Actor,The Untouchables,1988
-302,Kevin Kline,Best Supporting Actor,A Fish Called Wanda,1989
-308,Denzel Washington,Best Supporting Actor,Glory,1990
-313,Joe Pesci,Best Supporting Actor,Good Fellas,1991
-318,Jack Palance,Best Supporting Actor,City Slickers,1992
-323,Gene Hackman,Best Supporting Actor,Unforgiven,1993
-328,Tommy Lee Jones,Best Supporting Actor,The Fugitive,1994
-334,Martin Landau,Best Supporting Actor,Ed Wood,1995
-339,Kevin Spacey,Best Supporting Actor,The Usual Suspects,1996
-345,"Cuba Gooding, Jr.",Best Supporting Actor,Jerry Maguire,1997
-349,Robin Williams,Best Supporting Actor,Good Will Hunting,1998
-354,James Coburn,Best Supporting Actor,Affliction,1999
-358,James Coburn,Best Supporting Actor,Affliction,1999
-361,Michael Caine,Best Supporting Actor,The Cider House Rules,2000
-367,Benicio Del Toro,Best Supporting Actor,Traffic,2001
-373,Jim Broadbent,Best Supporting Actor,Iris,2002
-379,Chris Cooper,Best Supporting Actor,Adaptation,2003
-383,Tim Robbins,Best Supporting Actor,Mystic River,2004
-388,Morgan Freeman,Best Supporting Actor,Million Dollar Baby,2005
-395,George Clooney,Best Supporting Actor,Syriana,2006
-401,Alan Arkin,Best Supporting Actor,Little Miss Sunshine,2007
-408,Javier Bardem,Best Supporting Actor,No Country for Old Men,2008
-413,Heath Ledger,Best Supporting Actor,The Dark Knight,2009
-418,Christoph Waltz,Best Supporting Actor,Inglourious Basterds,2010
-424,Christian Bale,Best Supporting Actor,The Fighter,2011
-429,Christopher Plummer,Best Supporting Actor,Beginning,2012
-434,Christoph Waltz,Best Supporting Actor,Django Unchained,2013
-438,Jared Leto,Best Supporting Actor,Dallas Buyers Club,2014
+0,Lewis Milestone,Best Director,Two Arabian Knights,1927
+3,Frank Lloyd,Best Director,The Divine Lady,1930
+8,Lewis Milestone,Best Director,All Quiet on the Western Front,1931
+11,Norman Taurog,Best Director,Skippy,1932
+14,Frank Borzage,Best Director,Bad Girl,1933
+15,Frank Lloyd,Best Director,Cavalcade,1934
+18,Frank Capra,Best Director,It Happened One Night,1935
+21,John Ford,Best Director,The Informer,1936
+24,Frank Capra,Best Director,Mr. Deeds Goes to Town,1937
+28,Leo McCarey,Best Director,The Awful Truth,1938
+34,Frank Capra,Best Director,You Can't Take It with You,1939
+39,Victor Fleming,Best Director,Gone with the Wind,1940
+45,John Ford,Best Director,The Grapes of Wrath,1941
+51,John Ford,Best Director,How Green Was My Valley,1942
+57,William Wyler,Best Director,Mrs. Miniver,1943
+62,Michael Curtiz,Best Director,Casablanca,1944
+67,Leo McCarey,Best Director,Going My Way,1945
+72,Billy Wilder,Best Director,The Lost Weekend,1946
+78,William Wyler,Best Director,The Best Years of Our Lives,1947
+83,Elia Kazan,Best Director,Gentleman's Agreement,1948
+88,John Huston,Best Director,The Treasure of the Sierra Madre,1949
+94,Joseph L. Mankiewicz,Best Director,A Letter to Three Wives,1950
+99,Joseph L. Mankiewicz,Best Director,All About Eve,1951
+104,George Stevens,Best Director,A Place in the Sun,1952
+109,John Ford,Best Director,The Quiet Man,1953
+115,Fred Zinnemann,Best Director,From Here to Eternity,1954
+120,Elia Kazan,Best Director,On the Waterfront,1955
+125,Delbert Mann,Best Director,Marty,1956
+130,George Stevens,Best Director,Giant,1957
+135,David Lean,Best Director,The Bridge on the River Kwai,1958
+141,Vincente Minnelli,Best Director,Gigi,1959
+146,William Wyler,Best Director,Ben-Hur,1960
+151,Billy Wilder,Best Director,The Apartment,1961
+152,Robert Wise,Best Director,West Side Story,1961
+158,Jerome Robbins,Best Director,West Side Story,1962
+163,David Lean,Best Director,Lawrence of Arabia,1963
+168,Tony Richardson,Best Director,Tom Jones,1964
+173,George Cukor,Best Director,My Fair Lady,1965
+178,Robert Wise,Best Director,The Sound of Music,1966
+183,Fred Zinnemann,Best Director,A Man for All Seasons,1967
+189,Mike Nichols,Best Director,The Graduate,1968
+194,Carol Reed,Best Director,Oliver!,1969
+195,John Schlesinger,Best Director,Midnight Cowboy,1969
+202,Franklin J. Schaffner,Best Director,Patton,1970
+212,William Friedkin,Best Director,The French Connection,1972
+217,Bob Fosse,Best Director,Cabaret,1973
+218,George Roy Hill,Best Director,The Sting,1973
+227,Francis Ford Coppola,Best Director,The Godfather Part II,1975
+232,Milos Forman,Best Director,One Flew over the Cuckoo's Nest,1976
+233,John G. Avildsen,Best Director,Rocky,1976
+245,Woody Allen,Best Director,Annie Hall,1978
+250,Michael Cimino,Best Director,The Deer Hunter,1979
+256,Robert Benton,Best Director,Kramer vs. Kramer,1980
+257,Robert Redford,Best Director,Ordinary People,1980
+262,Warren Beatty,Best Director,Reds,1981
+267,Richard Attenborough,Best Director,Gandhi,1982
+272,James L. Brooks,Best Director,Terms of Endearment,1983
+281,Milos Forman,Best Director,Amadeus,1985
+286,Sydney Pollack,Best Director,Out of Africa,1986
+295,Bernardo Bertolucci,Best Director,The Last Emperor,1988
+300,Barry Levinson,Best Director,Rain Man,1989
+305,Oliver Stone,Best Director,Platoon,1990
+306,Oliver Stone,Best Director,Born on the Fourth of July,1990
+311,Kevin Costner,Best Director,Dances with Wolves,1991
+316,Jonathan Demme,Best Director,The Silence of the Lambs,1992
+321,Clint Eastwood,Best Director,Unforgiven,1993
+326,Steven Spielberg,Best Director,Schindler's List,1994
+332,Robert Zemeckis,Best Director,Forrest Gump,1995
+337,Mel Gibson,Best Director,Braveheart,1996
+342,Anthony Minghella,Best Director,The English Patient,1997
+348,James Cameron,Best Director,Titanic,1998
+352,Steven Spielberg,Best Director,Saving Private Ryan,1999
+359,Sam Mendes,Best Director,American Beauty,2000
+365,Steven Soderbergh,Best Director,Traffic,2001
+371,Ron Howard,Best Director,A Beautiful Mind,2002
+376,Roman Polanski,Best Director,The Pianist,2003
+382,Peter Jackson,Best Director,The Lord of the Rings: Return of the King,2004
+386,Clint Eastwood,Best Director,Million Dollar Baby,2005
+393,Ang Lee,Best Director,Brokeback Mountain,2006
+399,Martin Scorsese,Best Director,The Departed,2007
+405,Joel Coen,Best Director,No Country for Old Men,2008
+406,Ethan Coen,Best Director,No Country for Old Men,2008
+410,Danny Boyle,Best Director,Slumdog Millionaire,2009
+411,Kathryn Bigelow,Best Director,The Hurt Locker,2009
+422,Tom Hooper,Best Director,The King's Speech,2011
+427,Michel Hazanavicius,Best Director,The Artist,2012
+432,Ang Lee,Best Director,Life of Pi,2013

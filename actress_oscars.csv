@@ -1,96 +1,88 @@
 ,person,award,movie,year_of_award
-2,Janet Gaynor,Best Actress,7th Heaven,1929
-6,Mary Pickford,Best Actress,Coquette,1930
-7,Norma Shearer,Best Actress,The Divorcee,1930
-10,Marie Dressler,Best Actress,Min and Bill,1931
-13,Helen Hayes,Best Actress,The Sin of Madelon Claudet,1932
-17,Katharine Hepburn,Best Actress,Morning Glory,1934
-20,Claudette Colbert,Best Actress,It Happened One Night,1935
-23,Bette Davis,Best Actress,Dangerous,1936
-26,Luise Rainer,Best Actress,The Great Ziegfeld,1937
-32,Luise Rainer,Best Actress,The Good Earth,1938
-37,Bette Davis,Best Actress,Jezebel,1939
-42,Vivien Leigh,Best Actress,Gone with the Wind,1940
-43,Joan Fontaine,Best Actress,Suspicion,1940
-48,Ginger Rogers,Best Actress,Kitty Foyle,1941
-50,Ginger Rogers,Best Actress,Kitty Foyle,1941
-54,Greer Garson,Best Actress,Mrs. Miniver,1942
-65,Jennifer Jones,Best Actress,The Song of Bernadette,1944
-70,Ingrid Bergman,Best Actress,Gaslight,1945
-75,Joan Crawford,Best Actress,Mildred Pierce,1946
-81,Olivia de Havilland,Best Actress,To Each His Own,1947
-86,Loretta Young,Best Actress,The Farmer's Daughter,1948
-91,Jane Wyman,Best Actress,Johnny Belinda,1949
-97,Olivia de Havilland,Best Actress,The Heiress,1950
-102,Judy Holliday,Best Actress,Born Yesterday,1951
-107,Vivien Leigh,Best Actress,A Streetcar Named Desire,1952
-112,Shirley Booth,Best Actress,"Come Back, Little Sheba",1953
-118,Audrey Hepburn,Best Actress,Roman Holiday,1954
-123,Grace Kelly,Best Actress,The Country Girl,1955
-128,Anna Magnani,Best Actress,The Rose Tattoo,1956
-133,Ingrid Bergman,Best Actress,Anastasia,1957
-138,Joanne Woodward,Best Actress,The Three Faces of Eve,1958
-140,Joanne Woodward,Best Actress,The Three Faces of Eve,1958
-144,Susan Hayward,Best Actress,I Want To Live!,1959
-149,Simone Signoret,Best Actress,Room at the Top,1960
-155,Elizabeth Taylor,Best Actress,Butterfield 8,1961
-161,Sophia Loren,Best Actress,Two Women,1962
-166,Anne Bancroft,Best Actress,The Miracle Worker,1963
-171,Patricia Neal,Best Actress,Hud,1964
-176,Julie Andrews,Best Actress,Mary Poppins,1965
-181,Julie Christie,Best Actress,Darling,1966
-186,Elizabeth Taylor,Best Actress,Who's Afraid of Virginia Woolf?,1967
-188,Elizabeth Taylor,Best Actress,Who's Afraid of Virginia Woolf?,1967
-192,Katharine Hepburn,Best Actress,Guess Who's Coming to Dinner,1968
-198,Barbra Streisand,Best Actress,Funny Girl,1969
-199,Katharine Hepburn,Best Actress,The Lion in Winter,1969
-205,Maggie Smith,Best Actress,The Prime of Miss Jean Brodie,1970
-207,Maggie Smith,Best Actress,The Prime of Miss Jean Brodie,1970
-210,Glenda Jackson,Best Actress,Women in Love,1971
-215,Jane Fonda,Best Actress,Klute,1972
-221,Liza Minnelli,Best Actress,Cabaret,1973
-225,Glenda Jackson,Best Actress,A Touch of Class,1974
-230,Ellen Burstyn,Best Actress,Alice Doesn't Live Here Anymore,1975
-236,Louise Fletcher,Best Actress,One Flew Over the Cuckoo's Nest,1976
-241,Faye Dunaway,Best Actress,Network,1977
-243,Faye Dunaway,Best Actress,Network,1977
-248,Diane Keaton,Best Actress,Annie Hall,1978
-253,Jane Fonda,Best Actress,Coming Home,1979
-260,Sally Field,Best Actress,Norma Rae,1980
-265,Sissy Spacek,Best Actress,Coal Miner's Daughter,1981
-270,Katharine Hepburn,Best Actress,On Golden Pond,1982
-275,Meryl Streep,Best Actress,Sophie's Choice,1983
-279,Shirley MacLaine,Best Actress,Terms of Endearment,1984
-284,Sally Field,Best Actress,Places in the Heart,1985
-289,Geraldine Page,Best Actress,The Trip to Bountiful,1986
-293,Marlee Matlin,Best Actress,Children of a Lesser God,1987
-298,Cher,Best Actress,Moonstruck,1988
-303,Jodie Foster,Best Actress,The Accused,1989
-309,Jessica Tandy,Best Actress,Driving Miss Daisy,1990
-314,Kathy Bates,Best Actress,Misery,1991
-319,Jodie Foster,Best Actress,The Silence of the Lambs,1992
-324,Emma Thompson,Best Actress,Howards End,1993
-329,Holly Hunter,Best Actress,The Piano,1994
-335,Jessica Lange,Best Actress,Blue Sky,1995
-340,Susan Sarandon,Best Actress,Dead Man Walking,1996
-346,Frances McDormand,Best Actress,Fargo,1997
-350,Helen Hunt,Best Actress,As Good As It Gets,1998
-355,Gwyneth Paltrow,Best Actress,Shakespeare in Love,1999
-357,Gwyneth Paltrow,Best Actress,Shakespeare in Love,1999
-362,Hilary Swank,Best Actress,Boys Don't Cry,2000
-368,Julia Roberts,Best Actress,Erin Brockovich,2001
-374,Halle Berry,Best Actress,Monster's Ball,2002
-380,Nicole Kidman,Best Actress,The Hours,2003
-384,Charlize Theron,Best Actress,Monster,2004
-389,Hilary Swank,Best Actress,Million Dollar Baby,2005
-391,Hilary Swank,Best Actress,Million Dollar Baby,2005
-392,Hilary Swank,Best Actress,Million Dollar Baby,2005
-396,Reese Witherspoon,Best Actress,Walk the Line,2006
-402,Helen Mirren,Best Actress,The Queen,2007
-409,Marion Cotillard,Best Actress,The Passionate Life of Edith Piaf,2008
-414,Kate Winslet,Best Actress,The Reader,2009
-419,Sandra Bullock,Best Actress,The Blind Side,2010
-425,Natalie Portman,Best Actress,Black Swan,2011
-430,Meryl Streep,Best Actress,The Iron Lady,2012
-435,Jennifer Lawrence,Best Actress,Silver Linings Playbook,2013
-439,Cate Blanchett,Best Actress,Blue Jasmine,2014
+0,Lewis Milestone,Best Director,Two Arabian Knights,1927
+3,Frank Lloyd,Best Director,The Divine Lady,1930
+8,Lewis Milestone,Best Director,All Quiet on the Western Front,1931
+11,Norman Taurog,Best Director,Skippy,1932
+14,Frank Borzage,Best Director,Bad Girl,1933
+15,Frank Lloyd,Best Director,Cavalcade,1934
+18,Frank Capra,Best Director,It Happened One Night,1935
+21,John Ford,Best Director,The Informer,1936
+24,Frank Capra,Best Director,Mr. Deeds Goes to Town,1937
+28,Leo McCarey,Best Director,The Awful Truth,1938
+34,Frank Capra,Best Director,You Can't Take It with You,1939
+39,Victor Fleming,Best Director,Gone with the Wind,1940
+45,John Ford,Best Director,The Grapes of Wrath,1941
+51,John Ford,Best Director,How Green Was My Valley,1942
+57,William Wyler,Best Director,Mrs. Miniver,1943
+62,Michael Curtiz,Best Director,Casablanca,1944
+67,Leo McCarey,Best Director,Going My Way,1945
+72,Billy Wilder,Best Director,The Lost Weekend,1946
+78,William Wyler,Best Director,The Best Years of Our Lives,1947
+83,Elia Kazan,Best Director,Gentleman's Agreement,1948
+88,John Huston,Best Director,The Treasure of the Sierra Madre,1949
+94,Joseph L. Mankiewicz,Best Director,A Letter to Three Wives,1950
+99,Joseph L. Mankiewicz,Best Director,All About Eve,1951
+104,George Stevens,Best Director,A Place in the Sun,1952
+109,John Ford,Best Director,The Quiet Man,1953
+115,Fred Zinnemann,Best Director,From Here to Eternity,1954
+120,Elia Kazan,Best Director,On the Waterfront,1955
+125,Delbert Mann,Best Director,Marty,1956
+130,George Stevens,Best Director,Giant,1957
+135,David Lean,Best Director,The Bridge on the River Kwai,1958
+141,Vincente Minnelli,Best Director,Gigi,1959
+146,William Wyler,Best Director,Ben-Hur,1960
+151,Billy Wilder,Best Director,The Apartment,1961
+152,Robert Wise,Best Director,West Side Story,1961
+158,Jerome Robbins,Best Director,West Side Story,1962
+163,David Lean,Best Director,Lawrence of Arabia,1963
+168,Tony Richardson,Best Director,Tom Jones,1964
+173,George Cukor,Best Director,My Fair Lady,1965
+178,Robert Wise,Best Director,The Sound of Music,1966
+183,Fred Zinnemann,Best Director,A Man for All Seasons,1967
+189,Mike Nichols,Best Director,The Graduate,1968
+194,Carol Reed,Best Director,Oliver!,1969
+195,John Schlesinger,Best Director,Midnight Cowboy,1969
+202,Franklin J. Schaffner,Best Director,Patton,1970
+212,William Friedkin,Best Director,The French Connection,1972
+217,Bob Fosse,Best Director,Cabaret,1973
+218,George Roy Hill,Best Director,The Sting,1973
+227,Francis Ford Coppola,Best Director,The Godfather Part II,1975
+232,Milos Forman,Best Director,One Flew over the Cuckoo's Nest,1976
+233,John G. Avildsen,Best Director,Rocky,1976
+245,Woody Allen,Best Director,Annie Hall,1978
+250,Michael Cimino,Best Director,The Deer Hunter,1979
+256,Robert Benton,Best Director,Kramer vs. Kramer,1980
+257,Robert Redford,Best Director,Ordinary People,1980
+262,Warren Beatty,Best Director,Reds,1981
+267,Richard Attenborough,Best Director,Gandhi,1982
+272,James L. Brooks,Best Director,Terms of Endearment,1983
+281,Milos Forman,Best Director,Amadeus,1985
+286,Sydney Pollack,Best Director,Out of Africa,1986
+295,Bernardo Bertolucci,Best Director,The Last Emperor,1988
+300,Barry Levinson,Best Director,Rain Man,1989
+305,Oliver Stone,Best Director,Platoon,1990
+306,Oliver Stone,Best Director,Born on the Fourth of July,1990
+311,Kevin Costner,Best Director,Dances with Wolves,1991
+316,Jonathan Demme,Best Director,The Silence of the Lambs,1992
+321,Clint Eastwood,Best Director,Unforgiven,1993
+326,Steven Spielberg,Best Director,Schindler's List,1994
+332,Robert Zemeckis,Best Director,Forrest Gump,1995
+337,Mel Gibson,Best Director,Braveheart,1996
+342,Anthony Minghella,Best Director,The English Patient,1997
+348,James Cameron,Best Director,Titanic,1998
+352,Steven Spielberg,Best Director,Saving Private Ryan,1999
+359,Sam Mendes,Best Director,American Beauty,2000
+365,Steven Soderbergh,Best Director,Traffic,2001
+371,Ron Howard,Best Director,A Beautiful Mind,2002
+376,Roman Polanski,Best Director,The Pianist,2003
+382,Peter Jackson,Best Director,The Lord of the Rings: Return of the King,2004
+386,Clint Eastwood,Best Director,Million Dollar Baby,2005
+393,Ang Lee,Best Director,Brokeback Mountain,2006
+399,Martin Scorsese,Best Director,The Departed,2007
+405,Joel Coen,Best Director,No Country for Old Men,2008
+406,Ethan Coen,Best Director,No Country for Old Men,2008
+410,Danny Boyle,Best Director,Slumdog Millionaire,2009
+411,Kathryn Bigelow,Best Director,The Hurt Locker,2009
+422,Tom Hooper,Best Director,The King's Speech,2011
+427,Michel Hazanavicius,Best Director,The Artist,2012
+432,Ang Lee,Best Director,Life of Pi,2013
